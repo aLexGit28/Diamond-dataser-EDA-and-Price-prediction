@@ -1,1 +1,1 @@
-# Diamond-dataser-EDA-and-Price-prediction
+# Diamond-dataset-EDA-and-Price-prediction
